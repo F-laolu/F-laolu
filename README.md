@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 
-**F-laolu/F-laolu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I am a hardworking first year computer science student with passion in programming.  
 
 - 🔭 I’m currently working on C++ programming language
 - 🌱 I’m currently learning C++
