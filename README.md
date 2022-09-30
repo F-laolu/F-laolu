@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-I am a hardworking second year computer science student with passion for programming.  
+I am a hardworking third year computer science student with passion for programming.
+Currently on a placement year.
 
 - 🔭 I’m currently working on C++ programming language
 - 🌱 I’m currently learning Processing (Easy to tell i want to know more about graphics right??)
