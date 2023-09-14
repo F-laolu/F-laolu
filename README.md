@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am a hardworking third year computer science student with passion for programming.
+I am a hardworking fourth year(final year) computer science student with passion for programming. Eager to learn new things and execute projects.
 Currently on a placement year.
 
 - 🔭 I’m currently working on C++ programming language
