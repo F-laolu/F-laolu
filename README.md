@@ -2,7 +2,6 @@
 
 
 I am a hardworking fourth year(final year) computer science student with passion for programming. Eager to learn new things and execute projects.
-Currently on a placement year.
 
 - 🔭 I’m currently working on C++ programming language
 - 🌱 I’m currently learning Processing (Easy to tell i want to know more about graphics right??)
